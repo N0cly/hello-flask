@@ -8,4 +8,4 @@ def hello_world():
 
 @app.route('/test')
 def test():
- return 'On est là, et c/'est déjà bien'
+ return 'On est là, et c\'est déjà bien'
